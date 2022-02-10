@@ -18,11 +18,19 @@ header {
 }
 
 .team1 {
-  background-color: gray;
+  background-color: greenyellow;
 }
 
 .team2 {
-  background-color: gray;
+  background-color: red;
 }
 
+.team-name1 {
+  background-color: greenyellow;
+
+}
+
+.team-name2 {
+  background-color: red;
+}
 
