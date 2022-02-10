@@ -11,3 +11,9 @@ app.use(express.static('server/public'));
 app.listen(PORT, () => {
     console.log('Listening on port: ', PORT);
 });
+
+
+
+// git merge --no-ff feature-background
+// git checkout master
+// git checkout -b feature-background
