@@ -1,6 +1,7 @@
 body {
   font-family: sans-serif;
   background-image: linear-gradient(70deg,rgb(236, 95, 177), rgb(44, 2, 44),rgb(99, 226, 226), rgb(115, 221, 82));
+  height: 1000px;
 }
 
 #main_content {
