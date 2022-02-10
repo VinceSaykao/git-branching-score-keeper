@@ -15,6 +15,6 @@
   "homepage": "https://github.com/PrimeAcademy/git-branching-score-keeper#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.3"
+    "express": "^4.17.2"
   }
 }
